@@ -42,7 +42,7 @@ function About() {
             ,I'm always learning, constantly experimenting, and driven by a desire to solve problems that matter.
              Beyond the code, I value clear communication and continuous growth. Let's connect and build something great together!
             </p>
-            <a href='https://drive.google.com/file/d/1jKM2H1LPMJphxI-SGD4awTgoO3d8dFeG/view?usp=sharing'
+            <a href='https://drive.google.com/file/d/1Y8ICdqzVWFq_MubycPmRYajhdTJlCos7/view?usp=sharing'
             target='_blank'
             rel='noopener noreferrer'
             className='inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-bold transition duration-300 transform hover:scale-105'
