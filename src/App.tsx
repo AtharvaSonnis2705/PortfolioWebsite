@@ -5,6 +5,7 @@ import About from './components/About/About'
 import Skills from './components/Skills/Skills' 
 import Contact from './components/Contact/Contact'
 import Education from './components/Education/Education'
+import Experience from './components/Experience/Experience'
 
 function App() {
 
@@ -17,6 +18,7 @@ function App() {
       <Navbar/>
       <About/>
       <Skills/>
+      <Experience/>
       <Education/>
       <Contact/>
 
