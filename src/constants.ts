@@ -34,9 +34,7 @@ import postgreLogo from './assets/tech_logo/postgre.png';
 
 // Experience Section Logo's
 import applied_cloud_computing from './assets/company_logo/applied_cloud_computing_logo.jpg';
-import webverseLogo from './assets/company_logo/webverse_logo.png';
-import agcLogo from './assets/company_logo/agc_logo.png';
-import newtonschoolLogo from './assets/company_logo/newtonschool_logo.png';
+
 
 // Education Section Logo's
 
